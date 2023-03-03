@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+body{
+    background-color: #8cc2f5;
+    font-family: 'Neucha', cursive;
+} 
+.nav-link{cursor: pointer;}
+.header{
+    background-color: #ffc500;
+}
+.navbar{
+    /* background-color: #ec1a2f; */
+    background-color: #feda24;
+    width:100%
+}
+.full{width:100%;
+    height:910px;
+}
+.popup{
+    height:300px;
+    width:100%;
+}
+.get{
+    height:20px;
+}
+.get2{
+    height:20px;
+    background-color: #dcdad7 ;
+}
+.point{
+    height:200px;
+}
+.row3{
+    height:500px;
+}
+
+.link{
+    list-style-type: none;
+}
+.row2{
+    height:500px;
+}
+
+.bobmad , .bobmad1 , .bobmad2{
+    height:300px;
+    width:100%;
+}
